@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chutes</title>
+</head>
+
+<body>
+backgound-image:url("image/Chutes.jpg")
+</body>
+
+</html>
